@@ -8,7 +8,6 @@ html, body{
 }
 .navbar{
     padding: 10px 10px 10px 10px;
-    background-color: black;
 }
 .navbar-nav li{
     padding-right: 20px;
@@ -64,18 +63,8 @@ html, body{
     margin-bottom: 1rem;
     text-align: center;
 }
-.fa-code{
-    color: #e54d26;
-}
-.fa-bold{
-    color: #563d7c;
-}
-.fa-css3{
-    color: #2163af;
-}
-.fa-code, .fa-bold, .fa-css3{
-    font-size: 4em;
-    margin: 1rem;
+.col-xs-12{
+    background-image: 20px 20px 20px 20px;
 }
 
 
