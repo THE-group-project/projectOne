@@ -67,7 +67,20 @@ html, body{
 .col-xs-12{
     background-image: 20px 20px 20px 20px;
 }
-
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+footer a{
+    color: #d5d5d5;
+}
 
 
 
