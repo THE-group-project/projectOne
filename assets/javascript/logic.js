@@ -10,23 +10,19 @@
      };
 
     firebase.initializeApp(config);
-    // comment
-    
 
-// linking to button that POPS UP google sign in/auth.
 
-function googleLogin(){
-    var provider = new firebase.auth.GoogleAuthProvider();
-    firebase.auth().signInWithRedirect(provider).then(result => {
-        const user = result.user;
-        document.write('Hello ${user.displayName}');
-        console.log(user)
+// sign into google account using firebase authentication. 
+googleSignIn=() => {
+    base_provider = new firebase.auth.GoogleAuthProvider();
+    firebase.auth().signInWithPopup(base_provider).then(function(result){
+        console.log(result);
+        console.log('Success')
+    }).catch(function(err){
+        console.log(err);
+        console.log('Failed Log in');
     })
-     .catch(console.log);
-};
-
-
-
+}
 
 
 
