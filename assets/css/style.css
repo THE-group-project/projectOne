@@ -136,11 +136,11 @@ html, body{
 .carousel img {
     width:100% !important;
     min-width:100% !important;
-    height: auto;
 }
 .carousel-inner img{
-    width: 100%;
+    width: auto;
     height: 100%;
+    
 }
 .carousel-caption{
     position: absolute;
