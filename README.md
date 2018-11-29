@@ -1,7 +1,3 @@
-# Here is our projectOne repo. So far Our ideas consist of a Yelp type site focusing on coffee, food, booze. Feel free to alterthe read me. I think you'll have access to it.  
+<p> This is our <strong>Beers Burgers & Brews!</strong> Ferrin's Angels one stop shop to go out and have a good time at a local eatery, coffee shop or booze establishment near you! Just type in your location and feel free to give it a shot and have a pint with us!! </p>
 
-Client ID
-fslEHsvrvvi07V0PrGikQw
 
-API Key
-8D4Q4DqRccabJZDXp3mNPkcQ0RZRT7VsyiZMDxVr2FIv59RaJWDI_AjQ0pjI913vicL5wqM9hrxl7yuTl8ihyQ47Jo0-Jd3sACzP7Omxr3gz0amy1xxge2uitkLuW3Yx
