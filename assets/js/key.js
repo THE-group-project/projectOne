@@ -1,1 +1,0 @@
-const yelpAPI = "8D4Q4DqRccabJZDXp3mNPkcQ0RZRT7VsyiZMDxVr2FIv59RaJWDI_AjQ0pjI913vicL5wqM9hrxl7yuTl8ihyQ47Jo0-Jd3sACzP7Omxr3gz0amy1xxge2uitkLuW3Yx"
